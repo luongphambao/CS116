@@ -1,0 +1,10 @@
+Model,ACC
+KNN,67.5
+SVM Linear,67.5
+SVM RBF,67.5
+Naive Bayes,55
+Decision Tree,57.5
+Random Forest,77.5
+XGB,67.5
+Gradient Boosting,67.5
+SVM+tuning,73.125
